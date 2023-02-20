@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/PercivallAkihiko/MAL-Score-Helper/blob/main/icon/main.png) "Logo Title Text 1")
+![alt text](http://url/to/img.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
