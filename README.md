@@ -47,13 +47,21 @@ Check [here](https://github.com/PercivallAkihiko/MAL-Score-Helper/releases) to c
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+I never had any issue but just in case, go [here](https://myanimelist.net/panel.php?go=export) and export your list first.
+![alt text](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial1.png)
+Click **Load list** > **Copy link**. 
 
+Go to your browser, log in if you're not logged and authorize the app.
+Next you will be asked if you can open the application.
+![alt text](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial2.png)
 
+After that just give the app a few second to load all of your animelist.
+![alt text](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial3.png)
 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/PercivallAkihiko/MAL-Score-Helper)
+Project Link: [https://github.com/PercivallAkihiko/MAL-Score-Helper]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
