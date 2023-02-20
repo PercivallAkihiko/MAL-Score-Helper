@@ -25,9 +25,10 @@
 ## About The Project
 
 ![alt text](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/main.png)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Just a windows app that uses MAL API to score your animelist just by dragging them. 
+The app uses Oauth2, so it does not require credentials to be entered into the app nor will tokens be maintained.
 
-Just a windows app that use MAL API to score your animelist just by dragging them. 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -41,12 +42,7 @@ C# and MAL API
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Check [here](https://www.google.com) every releases. There's only one.
-
-
-### Installation
-
-Check [here](https://www.google.com) every releases. There's only one.
+Check [here](https://github.com/PercivallAkihiko/MAL-Score-Helper/releases) every releases. There's only one.
 
 
 <!-- USAGE EXAMPLES -->
