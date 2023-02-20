@@ -45,7 +45,7 @@ Check [here](https://github.com/PercivallAkihiko/MAL-Score-Helper/releases) to c
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Start
 
 I never had any issue but just in case, go [here](https://myanimelist.net/panel.php?go=export) and export your list first.
 <p align="center">
@@ -63,6 +63,34 @@ After that just give the app a few second to load all of your animelist.
 <p align="center">
   <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial3.png">
 </p>
+
+###Score your list
+Once your list is loaded, start to score every anime by dragging them on the right quadrant.
+Topleft is **SCORE 10** next to it is **SCORE 9**. On the left you can find every anime without score.
+Between the scoreless cores and the second column is a button to decrease the size of the last column.
+
+After that just give the app a few second to load all of your animelist.
+<p align="center">
+  <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial4.png">
+</p>
+
+Once you've finished everything just click **Update MAL**.
+
+###Buttons
+After that just give the app a few second to load all of your animelist.
+<p align="center">
+  <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial5.png">
+</p>
+
+**Reset to 0** -> Put every anime on the left quadrant.
+**Reload list** -> Reload your list from the last MAL retrieve, if you want to reload from MAL just click **Load list**.
+**Full screen** -> eskere.
+**SM - NM - LG** -> Change image's size.
+
+<p align="center">
+  <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial6.png">
+</p>
+
 
 <!-- CONTACT -->
 ## Contact
