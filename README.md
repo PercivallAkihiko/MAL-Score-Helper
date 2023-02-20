@@ -64,7 +64,7 @@ After that just give the app a few second to load all of your animelist.
   <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial3.png">
 </p>
 
-###Score your list
+### Score your list
 Once your list is loaded, start to score every anime by dragging them on the right quadrant.
 Topleft is **SCORE 10** next to it is **SCORE 9**. On the left you can find every anime without score.
 Between the scoreless cores and the second column is a button to decrease the size of the last column.
