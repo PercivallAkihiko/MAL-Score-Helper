@@ -76,9 +76,8 @@ Between the scoreless cores and the second column is a button to decrease the si
 Once you've finished everything just click **Update MAL**.
 
 ### Buttons
-After that just give the app a few second to load all of your animelist.
 <p align="center">
-  <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial5.png">
+  <img width="317" height="115" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial5.png">
 </p>
 
 **Reset to 0** -> Put every anime on the left quadrant.
