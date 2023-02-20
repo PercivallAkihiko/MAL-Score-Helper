@@ -25,8 +25,11 @@
 ## About The Project
 
 ![alt text](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/main.png)
-Just a windows app that uses MAL API to score your animelist just by dragging them. 
-The app uses Oauth2, so it does not require credentials to be entered into the app nor will tokens be maintained.
+Just a windows app that uses MAL API to score your animelist just by dragging them.  
+I think voting for anime on MyAnimeList is not inconvenient but it is a long process. I have developed an application that allows you to drag and drop each anime and put them into their corresponding vote or tier.
+The idea was to get a general idea of all the anime so that I could compare each tier and put the anime in the best way.
+Well it didn't come out great as the space is really small, decreasing then the size you can't understand anything, however I think it is still an app that anyway is useful to speed up the work.
+ The app uses Oauth2, so it does not require credentials to be entered into the app nor will tokens be maintained. Why an exe? The project was just to make my job easier, I never planned to publish it, so I didn't think of making it a webapp. I ended up putting in its main functions and that was it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
