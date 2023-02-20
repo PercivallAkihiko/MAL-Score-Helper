@@ -24,9 +24,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png)
+![alt text](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/main.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+Just a windows app that use MAL API to score your animelist just by dragging them. 
 
 
 ### Built With
