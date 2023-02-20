@@ -75,7 +75,7 @@ Between the scoreless cores and the second column is a button to decrease the si
 
 Once you've finished everything just click **Update MAL**.
 
-###Buttons
+### Buttons
 After that just give the app a few second to load all of your animelist.
 <p align="center">
   <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial5.png">
@@ -86,9 +86,6 @@ After that just give the app a few second to load all of your animelist.
 **Full screen** -> eskere.
 **SM - NM - LG** -> Change image's size.
 
-<p align="center">
-  <img width="660" height="437" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial6.png">
-</p>
 
 
 <!-- CONTACT -->
