@@ -80,10 +80,10 @@ Once you've finished everything just click **Update MAL**.
   <img width="317" height="115" src="https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/tutorial5.png">
 </p>
 
-**Reset to 0** -> Put every anime on the left quadrant.
-**Reload list** -> Reload your list from the last MAL retrieve, if you want to reload from MAL just click **Load list**.
-**Full screen** -> eskere.
-**SM - NM - LG** -> Change image's size.
+**Reset to 0** -> Put every anime on the left quadrant.  
+**Reload list** -> Reload your list from the last MAL retrieve, if you want to reload from MAL just click **Load list**.  
+**Full screen** -> eskere.  
+**SM - NM - LG** -> Change image's size.  
 
 
 
