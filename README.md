@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](http://url/to/img.png](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png)
+![alt text](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
