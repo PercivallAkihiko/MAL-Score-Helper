@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://github.com/PercivallAkihiko/MAL-Score-Helper/blob/main/icon/main.png | width=100)
+![]([https://github.com/PercivallAkihiko/MAL-Score-Helper/blob/main/icon/main.png](https://raw.githubusercontent.com/PercivallAkihiko/MAL-Score-Helper/main/icon/main.png) | width=100)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
