@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-AYO
+![](https://github.com/PercivallAkihiko/MAL-Score-Helper/blob/main/icon/main.png | width=100)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
