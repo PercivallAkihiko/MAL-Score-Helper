@@ -33,8 +33,7 @@ The app uses Oauth2, so it does not require credentials to be entered into the a
 
 ### Built With
 
-C# and MAL API
-
+C# and [MAL API](https://myanimelist.net/apiconfig/references/api/v2) 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -42,21 +41,19 @@ C# and MAL API
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Check [here](https://github.com/PercivallAkihiko/MAL-Score-Helper/releases) every releases. There's only one.
+Check [here](https://github.com/PercivallAkihiko/MAL-Score-Helper/releases) to check every releases. There's only one.
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-ESKERE.
+
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/PercivallAkihiko/MAL-Score-Helper)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
